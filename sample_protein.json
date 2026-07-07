@@ -3,7 +3,11 @@
     "sequences": [
       {
         "protein": {
-          "id": ["A", "B"],
+          "id": [
+              "A", 
+              "B",
+              "C"
+          ],
           "sequence": "GAILVDERKFWYPHNQSCTM"
         }
       }
