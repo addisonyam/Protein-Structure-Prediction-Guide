@@ -1,0 +1,14 @@
+{
+    "name": "AY00X",
+    "sequences": [
+      {
+        "protein": {
+          "id": ["A", "B"],
+          "sequence": "GAILVDERKFWYPHNQSCTM"
+        }
+      }
+    ],
+    "modelSeeds": [1],
+    "dialect": "alphafold3",
+    "version": 1
+}
