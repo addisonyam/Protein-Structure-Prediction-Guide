@@ -1,0 +1,19 @@
+{
+  "name": "test_homodimer",
+  "sequences": [
+    {
+      "protein": {
+        "id": [
+          "A",
+          "B"
+        ],
+        "sequence": "DIQMTQSPSSLSASVGDRVTITCRASQGIRNYLAWYQQKPGKAPKLLIYAASTLQSGVPSRFSGSGSGTDFTLTISSLQPEDVATYYCQRYNRAPYTFGQGTKVEIK"
+      }
+    }
+  ],
+  "modelSeeds": [
+    1
+  ],
+  "dialect": "alphafold3",
+  "version": 1
+}
