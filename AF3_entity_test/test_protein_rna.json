@@ -1,0 +1,22 @@
+{
+  "name": "test_protein_rna",
+  "sequences": [
+    {"protein": {
+        "id": [
+            "A"
+        ], 
+        "sequence": "DIQMTQSPSSLSASVGDRVTITCRASQGIRNYLAWYQQKPGKAPKLLIYAASTLQSGVPSRFSGSGSGTDFTLTISSLQPEDVATYYCQRYNRAPYTFGQGTKVEIK"}
+    },
+    {"rna": {
+        "id": [
+            "B"
+        ], 
+        "sequence": "AUCGAGCUAGCUAGCUAGCUAG"}
+    }
+  ],
+  "modelSeeds": [
+    1
+  ],
+  "dialect": "alphafold3",
+  "version": 1
+}

@@ -1,0 +1,40 @@
+{
+  "name": "test_protein_ligand",
+  "sequences": [
+    {"protein": {
+        "id": [
+            "A"
+        ], 
+        "sequence": "DIQMTQSPSSLSASVGDRVTITCRASQGIRNYLAWYQQKPGKAPKLLIYAASTLQSGVPSRFSGSGSGTDFTLTISSLQPEDVATYYCQRYNRAPYTFGQGTKVEIK"}
+    },
+    {"ligand": {
+        "id": [
+            "B", "C"
+        ], 
+        "ccdCodes": ["ATP"]}
+    },
+    {"ligand": {
+        "id": [
+            "D"
+        ], 
+        "ccdCodes": ["LIG-1337"]}
+    },
+    {"ligand": {
+        "id": [
+            "E"
+        ], 
+        "ccdCodes": ["HEM"]}
+    },
+    {"ligand": {
+        "id": [
+            "F"
+        ], 
+        "smiles": "CC(=O)OC1C[NH+]2CCC1CC2"}
+    }
+  ],
+  "modelSeeds": [
+    1
+  ],
+  "dialect": "alphafold3",
+  "version": 1
+}

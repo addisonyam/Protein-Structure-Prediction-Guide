@@ -1,0 +1,20 @@
+{
+  "name": "test_complex",
+  "sequences": [
+    {"protein": {
+        "id": ["A"], "sequence": "DIQMTQSPSSLSASVGDRVTITCRASQGIRNYLAWYQQKPGKAPKLLIYAASTLQSGVPSRFSGSGSGTDFTLTISSLQPEDVATYYCQRYNRAPYTFGQGTKVEIK"
+        }
+    },
+    {"rna": {
+        "id": ["B"], "sequence": "AUCGAGCUAGCUAGCUAGCUAG"
+        }
+    },
+    {"ligand": {
+        "id": ["C"], "ccdCodes": ["ATP"]
+        }
+    }
+  ],
+  "modelSeeds": [1],
+  "dialect": "alphafold3",
+  "version": 1
+}
