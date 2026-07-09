@@ -1,0 +1,18 @@
+{
+  "name": "test_dna",
+  "sequences": [
+    {"dna": {
+        "id": ["P"], 
+        "sequence": "ATCGATCGATCGATCGATCGATCG"
+        }
+    },
+    {"dna": {
+        "id": ["N"], 
+        "sequence": "CGATCGATCGATCGATCGATCGAT"
+        }
+    }
+  ],
+  "modelSeeds": [1],
+  "dialect": "alphafold3",
+  "version": 1
+}
