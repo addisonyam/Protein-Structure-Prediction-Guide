@@ -2,11 +2,11 @@
 Guide to predicting three-dimensional protein structures and taking into account the biochemical perspectives for antibody/drug design
 
 3D protein prediction tools:
-- AlphaFold3
-- ESMFold2
+- [AlphaFold3](https://www.nature.com/articles/s41586-024-07487-w)
+- [ESMFold2](https://www.biorxiv.org/content/10.64898/2026.06.03.729735v1)
 - SWISS-MODEL
 - MODELLER
-- Boltz
+- [Boltz](https://www.biorxiv.org/content/10.1101/2025.06.14.659707v1)
 - Chai
 
 Model-specific for de novo design:
