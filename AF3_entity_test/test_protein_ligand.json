@@ -15,12 +15,6 @@
     },
     {"ligand": {
         "id": [
-            "D"
-        ], 
-        "ccdCodes": ["LIG-1337"]}
-    },
-    {"ligand": {
-        "id": [
             "E"
         ], 
         "ccdCodes": ["HEM"]}
